@@ -115,3 +115,38 @@ input{
 .element:hover {
   transform: scale(1.1);
 }
+
+#head{
+
+  margin: 0;
+
+  padding: 0;
+
+  color: white;
+
+  width: 100%;
+
+    background:   rgb(244, 170, 39);
+
+  text-align: center;
+
+  opacity: 4;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+
+  #container{
+
+ 
+  height: 100%;
+  width: 100%;
+
+  margin-top: 50px;
+
+}
+ 
+
+  
+}
